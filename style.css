@@ -58,7 +58,7 @@ header {
 }
 .intro-chunk {
   width: -moz-fit-content;
-  max-width: fit-content;
+  max-width: 400px;
 }
 .indented-heading {
   margin-left: -8px;
